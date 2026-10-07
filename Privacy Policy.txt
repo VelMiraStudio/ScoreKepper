@@ -1,0 +1,46 @@
+Privacy Policy for Score Keeper: Points Tracker
+Effective date: October 7, 2026
+Developer: VelMira Studio
+VelMira Studio provides Score Keeper: Points Tracker. This Privacy Policy explains how information is handled when you use the app or contact us.
+1. Information Stored by the App
+Score Keeper stores information locally on your device to provide its scoring features. This may include:
+- Game titles and participant or team names.
+- Scores, scoring rules, round entries, and scoring activity.
+- Saved games and completed game results.
+- App settings and preferences.
+This information is used to track scores, calculate totals, restore saved games, and remember your preferences. It is not transmitted to or stored on developer servers.
+The app does not require an account or ask you to provide an email address or phone number to use its features.
+2. Advertising and Analytics
+Score Keeper does not include advertising, analytics tracking, or third-party tracking SDKs. We do not collect advertising identifiers or track your activity across other apps.
+We do not sell or rent your information.
+3. Sharing Results
+If you choose to share game results, the app passes the selected results to the application or recipient you choose through your device’s sharing options.
+Sharing occurs only when you initiate it. Information shared with another service is subject to that service’s privacy practices.
+4. Device Backups
+Depending on your device settings and the app’s backup configuration, locally stored app data may be included in Android or device-provider backups.
+These backups are managed by your device or backup provider. We do not operate or have access to those backup services.
+5. Data Retention and Deletion
+Saved game information remains on your device until you delete it or clear the app’s data.
+You can delete saved games using the app’s available deletion controls. You can remove all local app data through Android Settings by selecting the app and clearing its storage.
+Uninstalling the app generally removes its local data. Copies included in device backups may remain according to your backup provider’s settings and retention practices.
+Because we do not receive your locally stored game data, we cannot access, retrieve, or delete it remotely.
+6. Support Communications
+If you contact us by email or phone, we receive the information you choose to provide, such as your contact details, message, and any attachments.
+We use this information to respond to your inquiry and resolve support issues. Communications may be processed by the email or telecommunications providers used to deliver them.
+We retain support communications only as needed to handle your request and meet applicable obligations. You may contact us to request deletion of those communications.
+7. Permissions
+The app does not require access to your contacts, location, camera, or microphone for its scoring features.
+Sharing results uses your device’s standard sharing functionality.
+8. Security
+Locally stored information is protected by Android’s app storage controls and your device’s security settings. We encourage you to keep your device secure and its software updated.
+No method of storage or communication can guarantee absolute security.
+9. Children’s Privacy
+The app does not require users to submit personal information to the developer. Participant names and scores entered into the app remain locally on the device.
+If you believe a child has sent personal information to us through a support communication, contact us so we can review and delete it where appropriate.
+10. Changes to This Policy
+We may update this Privacy Policy when the app or its information-handling practices change. Updates will be reflected in the policy, together with a revised effective date.
+11. Contact Us
+For privacy questions or requests, contact:
+VelMira Studio
+Email: dev@velqamira.online
+Phone: +447460002362
